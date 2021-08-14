@@ -547,7 +547,7 @@ class Landing extends React.Component {
                           href="#pablo"
                           onClick={e => e.preventDefault()}
                         >
-                          <i className="fa fa-facebook" />
+                         <i class="fab fa-linkedin"></i>
                         </Button>
                         <Button
                           className="btn-icon-only rounded-circle ml-1"
@@ -591,7 +591,7 @@ class Landing extends React.Component {
                           href="#pablo"
                           onClick={e => e.preventDefault()}
                         >
-                          <i className="fa fa-facebook" />
+                          <i class="fab fa-linkedin"></i>
                         </Button>
                         <Button
                           className="btn-icon-only rounded-circle ml-1"
@@ -633,7 +633,7 @@ class Landing extends React.Component {
                           href="#pablo"
                           onClick={e => e.preventDefault()}
                         >
-                          <i className="fa fa-facebook" />
+                          <i class="fab fa-linkedin"></i>
                         </Button>
                         <Button
                           className="btn-icon-only rounded-circle ml-1"
@@ -675,7 +675,7 @@ class Landing extends React.Component {
                           href="#pablo"
                           onClick={e => e.preventDefault()}
                         >
-                          <i className="fa fa-facebook" />
+                          <i class="fab fa-linkedin"></i>
                         </Button>
                         <Button
                           className="btn-icon-only rounded-circle ml-1"
